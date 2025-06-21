@@ -15,12 +15,12 @@ I'm a **Junior Software Engineer** passionate about crafting innovative and impa
 
 <!-- Let's Connect..! -->
 
-# <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+### 📞 Let's Connect..! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-[![Linkedin Badge]](https://www.linkedin.com/in/yasmin-dhifaoui/)
-[![Mail Badge]](https://www.instagram.com/gargouri_yasmin/)
-[![Mail Badge]](https://www.facebook.com/yasmin.dhifaoui/)
-[![Mail Badge]](mailto:yasmingargouri04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-dhifaoui/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gargouri_yasmin/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yasmin.dhifaoui/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmingargouri04@gmail.com)
 
 <!-- Ligne  -->
 
@@ -58,4 +58,4 @@ I'm a **Junior Software Engineer** passionate about crafting innovative and impa
 
 Credit: [Yasmin Dhifaoui](https://github.com/YasminDhifaoui)
 
-Last Edited on: 03/09/2024
+Last Edited on: 21/06/2025
