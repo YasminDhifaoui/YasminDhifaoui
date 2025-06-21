@@ -65,7 +65,7 @@ Here are some of the technologies and tools I'm proficient with:
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Turning+coffee+into+code+and+ideas+into+reality%2C+one+line+at+a+time.&author=&align=center)
 
 <div align="center" >
 
